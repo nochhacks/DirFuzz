@@ -5,6 +5,7 @@ GO is a server side scripting language, which is why I chose it over Python3 for
 
 # Prerequisites
 * A GOLANG installation
+* The "go-color" module. (See Installation or this <a href="https://github.com/TwinProduction/go-color">link</a>)
 * Sudo / Admin privileges
 
 # Installation
