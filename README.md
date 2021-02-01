@@ -1,5 +1,7 @@
 # DirFuzz
-Basic URL fuzzer written in GOLANG
+Basic URL fuzzer written in GO.
+Iterates over a provided wordlist and checks response codes from a webserver.
+GO is a server side scripting language, which is why I chose it to code a URL fuzzer over Python3.
 
 # Prerequisites
 * A GOLANG installation
