@@ -19,6 +19,9 @@ Firstly, you need the script. You can do this one of two ways:
 
 <b>(Linux Only!)</b>
 
+There is a GitHub module that GO needs to run the script. You can install it like this:
+<pre>go get github.com/TwinProduction/go-color</pre>
+
 Open the DirFuzz directory and make sure that the script is executable:
 <pre>chmod +x dirfuzz.go</pre>
 
